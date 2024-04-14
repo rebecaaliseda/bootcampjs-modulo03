@@ -12,10 +12,10 @@ console.log('Género musical: ' + generoMusical);
 
 console.log('----------------------');
 
-var grupoMusical = '%cQueen';
-var año = '1970';
-var activo = false;
-var generoMusical = '🎸Rock';
+grupoMusical = '%cQueen';
+año = '1970';
+activo = false;
+generoMusical = '🎸Rock';
 console.log(grupoMusical, estiloTitulo);
 console.log('Año fundación: ' + año);
 console.log('Activo: ' + activo);
@@ -23,10 +23,10 @@ console.log('Género musical: ' + generoMusical);
 
 console.log('----------------------');
 
-var grupoMusical = '%cAC DC';
-var año = '1973';
-var activo = true;
-var generoMusical = '🤘Hard Rock';
+grupoMusical = '%cAC DC';
+año = '1973';
+activo = true;
+generoMusical = '🤘Hard Rock';
 console.log(grupoMusical, estiloTitulo);
 console.log('Año fundación: ' + año);
 console.log('Activo: ' + activo);
@@ -34,10 +34,10 @@ console.log('Género musical: ' + generoMusical);
 
 console.log('----------------------');
 
-var grupoMusical = '%cLudwig van Beethoven';
-var año = '1770';
-var activo = false;
-var generoMusical = '🎼Clásica';
+grupoMusical = '%cLudwig van Beethoven';
+año = '1770';
+activo = false;
+generoMusical = '🎼Clásica';
 console.log(grupoMusical, estiloTitulo);
 console.log('Año fundación: ' + año);
 console.log('Activo: ' + activo);
@@ -45,10 +45,10 @@ console.log('Género musical: ' + generoMusical);
 
 console.log('----------------------');
 
-var grupoMusical = '%cThe Rolling Stones';
-var año = '1962';
-var activo = true;
-var generoMusical = '🎸Rock';
+grupoMusical = '%cThe Rolling Stones';
+año = '1962';
+activo = true;
+generoMusical = '🎸Rock';
 console.log(grupoMusical, estiloTitulo);
 console.log('Año fundación: ' + año);
 console.log('Activo: ' + activo);
